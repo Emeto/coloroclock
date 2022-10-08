@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Emeto/coloroclock/blob/main/docs/coloroclock-logo.png?raw=true" alt="Coloroclock logo" width="500" />
+    <img src="https://github.com/Emeto/coloroclock/blob/main/docs/coloroclock-logo.png?raw=true" alt="Coloroclock logo" width="250" />
 </p>
 <p align="center">
     <b>Demo: <a href="https://colorclock.jcastellano.me">https://colorclock.jcastellano.me</a></b>
@@ -18,7 +18,7 @@ Color o'clock is a grid of clocks that converts the current time in an hex color
 Each part of the current time is converted to an hexadecimal number and is then concatenated to form a valid hexadecimal color value. For example with 16:20:00 :
 
 <p align="center">
-    <img src="https://github.com/Emeto/coloroclock/blob/main/docs/howitworks.png?raw=true" alt="How it works" />
+    <img src="https://github.com/Emeto/coloroclock/blob/main/docs/howitworks.png?raw=true" alt="How it works" width="300" />
 </p>
 
 **Single digit** and **single letter** hexadecimal values are **duplicated** to fill the gaps and get an actual 16-bit value, so here **a single 0 will become 00**
